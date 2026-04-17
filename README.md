@@ -1,6 +1,6 @@
 # canelita-bot 🐾
 
-A simple Discord bot I'm building to learn Ruby and experiment with bot development.
+A simple Discord bot I'm building to learn Ruby.
 
 ---
 
